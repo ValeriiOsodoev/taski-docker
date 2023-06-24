@@ -1,1 +1,1 @@
-# taski-docker
+# taski-docker by Valerii Osodoev
